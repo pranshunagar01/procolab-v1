@@ -224,6 +224,35 @@ Link -
       </li>
      </ul>
   </li>
+   <br><br>
+      <li>
+        Group video conferencing
+        <ul>
+           <br><br>
+            <img style="display: inline" src="https://user-images.githubusercontent.com/59359937/201534323-ccf806f6-d1a5-473e-afae-babb3d606732.jpg" width="400"/>
+        </ul>
+        <ul>
+            <li>Click on Join Call</li>
+            <li>Show all the group members</li>
+            <li>Mute, Hide audio/ video and perform other functions.</li>
+        </ul>
+      </li>
+   <br><br>
+      <li>
+        Save, Refresh, Run Code in real-time
+        <ul>
+           <br><br>
+            <img style="display: inline" src="https://user-images.githubusercontent.com/59359937/201534522-5dbb6ecc-68e5-44d2-93b1-a29d863c5963.jpg" width="400"/>
+            <img style="display: inline" src="https://user-images.githubusercontent.com/59359937/201534578-3a39d12f-4eee-4cc7-b68d-eb7a1e2758a0.jpg" width="400"/>
+        </ul>
+        <ul>
+            <li>Refresh to load the newest code</li>
+            <li>Save to save your code to the database</li>
+            <li>Run your code and see the output in real-time</li>
+        </ul>
+      </li>
+     </ul>
+  </li>
   <br>
 </ul>
 
